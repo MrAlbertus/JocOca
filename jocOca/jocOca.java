@@ -182,7 +182,7 @@ public class jocOca {
             }
 
 
-    return posicionActual;    //NO SE SI ES CORRECTO
+    return posicionActual;
     }
     
     public int dado() {
@@ -192,3 +192,4 @@ public class jocOca {
         return dau;
     }
 }
+
